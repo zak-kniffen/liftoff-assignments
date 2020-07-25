@@ -7,12 +7,28 @@ For this assignment, you will submit a high-level outline of your project. This 
 ## Submission Instructions
 
 ### Overview
-Include overview here
+  My app idea is a speech therapy app for toddlers that allows someone to test their toddler with different phonetic speech examples and keep track of their progress over time on each of the different speech sounds, as well as their speech progress as a whole.
 ### Features
-Include Features here
+  Login:  A unique login will be possible for each person to keep track of progress.
+  Flash Cards or radio button form:  User will be able to select yes/no for each word to show whether their child pronounced it correctly.
+  Submission Weighting:  A system that weights the results so that the child has less of the ones that they got right and more of those they got wrong
+  Progress tracker:  A page that shows the user's or user's child progress over time 
+  Graph:  A graph to visually show the progress over time.  
 ### Technologies
-Include Technologies here
+  Java
+  Spring Boot
+  MySQL
+  Hibernate
+  Bootstrap
+  (D3 visualization)
+  Javascript
+  Thymeleaf templates
+  Possible API
 ### What I'll Have to Learn
-Include what you will need to learn here
+  More about SQL
+  Bootstrap
+  CSS
+  HTML
+  D3
 ### Project Tracker
-Link to your Trello board here
+  https://trello.com/b/VaqTR1rq/small-talk-crm
