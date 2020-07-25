@@ -7,7 +7,7 @@ For this assignment, you will submit a high-level outline of your project. This 
 ## Submission Instructions
 
 ### Overview
-  My app idea is a speech therapy app for toddlers that allows someone to test their toddler with different phonetic speech examples and keep track of their progress over time on each of the different speech sounds, as well as their speech progress as a whole.
+  My app idea is a speech therapy app for toddlers that allows someone to test their toddler with different phonetic speech examples and keep track of their progress over time on each of the different speech sounds, as well as their speech progress as a whole.  My youngest daughter is 2 years old and is a little behind on her speech development.  She is starting to talk more, but she seems to be having issues with her pronunciation.  So this would hopefully be able to help her develop her speech.  
 ### Features
   Login:  A unique login will be possible for each person to keep track of progress.
   Flash Cards or radio button form:  User will be able to select yes/no for each word to show whether their child pronounced it correctly.
