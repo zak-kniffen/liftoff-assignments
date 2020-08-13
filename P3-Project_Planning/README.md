@@ -8,9 +8,9 @@ For this assignment, you'll create some initial plans for your project.
 
 ### Wireframes
 
-*Home Page Not logged In
-*Home Page Logged In
-*Cards Page
+* Home Page Not logged In
+* Home Page Logged In
+* Cards Page
 
 ### Project Tracker
 
