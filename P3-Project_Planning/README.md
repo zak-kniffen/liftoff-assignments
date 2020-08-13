@@ -10,7 +10,7 @@ For this assignment, you'll create some initial plans for your project.
 
 * Home Page Not logged In
 * Home Page Logged In
-* Cards Page
+* [Cards Page](https://github.com/zakattack194/liftoff-assignments/blob/master/P3-Project_Planning/Speech%20Tracker%20Cards%20Page.pdf)
 
 ### Project Tracker
 
