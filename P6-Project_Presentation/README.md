@@ -7,4 +7,4 @@ We want to you to create a set of presentation slides summarizing your project.
 ## Submission Instructions
 
 ### Presentation
-Upload a .PDF of your presentation here for review.
+[Speech Tracker Presentation PDF] (https://github.com/zak-kniffen/liftoff-assignments/blob/master/P6-Project_Presentation/Speech%20Tracker%20App%20Presentation.pdf)
